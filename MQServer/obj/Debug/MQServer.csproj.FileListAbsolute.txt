@@ -1,0 +1,13 @@
+C:\Jerry\Code\RabbitMq_Lab\MQServer\bin\Debug\MQServer.exe.config
+C:\Jerry\Code\RabbitMq_Lab\MQServer\bin\Debug\MQServer.exe
+C:\Jerry\Code\RabbitMq_Lab\MQServer\bin\Debug\MQServer.pdb
+C:\Jerry\Code\RabbitMq_Lab\MQServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Jerry\Code\RabbitMq_Lab\MQServer\bin\Debug\Newtonsoft.Json.dll
+C:\Jerry\Code\RabbitMq_Lab\MQServer\bin\Debug\RabbitMQ.Client.dll
+C:\Jerry\Code\RabbitMq_Lab\MQServer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Jerry\Code\RabbitMq_Lab\MQServer\bin\Debug\Newtonsoft.Json.xml
+C:\Jerry\Code\RabbitMq_Lab\MQServer\bin\Debug\RabbitMQ.Client.xml
+C:\Jerry\Code\RabbitMq_Lab\MQServer\obj\Debug\MQServer.csprojResolveAssemblyReference.cache
+C:\Jerry\Code\RabbitMq_Lab\MQServer\obj\Debug\MQServer.csproj.CoreCompileInputs.cache
+C:\Jerry\Code\RabbitMq_Lab\MQServer\obj\Debug\MQServer.exe
+C:\Jerry\Code\RabbitMq_Lab\MQServer\obj\Debug\MQServer.pdb

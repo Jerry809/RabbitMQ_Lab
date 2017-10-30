@@ -14,6 +14,7 @@ namespace MQWorker
     {
         static void Main(string[] args)
         {
+
             var routingKey = "Hello";
             var exchangeName = "direct-exchange";
 
